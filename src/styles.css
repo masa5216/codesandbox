@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+}
+
+#area1 {
+  background-color: aqua;
+  min-height: 200px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#area2 {
+  background-color: antiquewhite;
+  min-height: 200px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#area3 {
+  background-color: chocolate;
+  min-height: 200px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#area4 {
+  margin: 10px;
+}
+
+#execute {
+  padding: 5px 10px;
+}
+
+#left {
+  width: 20%;
+  padding: 10px;
+  min-width: 20%;
+  background-color: blue;
+}
+
+#right {
+  width: 80%;
+  padding: 10px;
+  background-color: yellow;
+}
