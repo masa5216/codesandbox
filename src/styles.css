@@ -29,7 +29,9 @@ body {
 }
 
 #execute {
-  padding: 5px 10px;
+  padding: 5px 20px;
+  border-radius: 3px;
+  border: solid 1px;
 }
 
 #left {
